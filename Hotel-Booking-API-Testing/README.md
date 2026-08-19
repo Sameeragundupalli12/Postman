@@ -205,3 +205,8 @@ Hotel-Booking-API-Testing/
 ├── newman-report.html
 └── README.md
 ```
+
+## Notes
+
+* This project uses the public Restful-Booker sandbox API for testing purposes only; no real customer or booking information is involved.
+* The health check provides a quick smoke validation that the API is reachable before functional tests run.
